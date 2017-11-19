@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Rafael Silveira",
+    "label": "Web developer",
+    "picture": "picture/picture.jpg",
+    "email": "rsilveiracc@gmail.com",
+    "phone": "+55 53 984221153",
+    "website": "http://rsilveira.com",
+    "summary": "I have a degree in Computer Engineering from the Federal University of Pelotas – UFPel and medium and technical (Electromechanical) from IFSul. During college, I worked with Scientific Initiation and Tutorial Education Program (PET) for three years, where I also worked in the areas of Research, Extension and Teaching winning awards as: Innovative Ideas Competition UFPel and highlighted in the session of Exact Sciences of Scientific UFPel Initiation Congress (CIC). I also have experience in the field of automation involving radio frequency identification systems (RFID). In my free time, I usually study new technologies and develop projects involving electronics with web development integration.",
+    "location": {
+      "address": "João Jacob Bainy, 201",
+      "postalCode": "96065-340",
+      "city": "Pelotas",
+      "countryCode": "Brazil",
+      "region": "Rio Grande do Sul"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "",
+        "url": "https://www.linkedin.com/in/r-silveira/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "POSSIBLE BRAZIL",
+      "position": "Back-end Developer",
+      "website": "http://possible.com",
+      "startDate": "2015-11-17",
+      "summary": "I worked with technologies such as PHP, NodeJS, HTML 5, MySQL and MongoDB. I also had experience using  Symfony, SIlex, Node-Red, CakePHP, Laravel, WordPress (CMS) frameworks and Agile Methodology.",
+      "highlights": [
+        "Created the Possible Maker Space at POSSIBLE Brazil office, a place where It’s possible to develop products involving free hardware such as Arduino and Raspberry Pi."
+      ]
+    },
+    {
+      "company": "Hut8",
+      "position": "Developer",
+      "website": "http://www.hut8.com.br",
+      "startDate": "2014-03-11",
+      "endDate": "2015-10-17",
+      "summary": "I worked with mobile development for Android platforms. I helped to develop the first mobile app of the Federal University of Pelotas – UFPel.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "SENAC",
+      "area": "Project Management and Business Intelligence",
+      "studyType": "Graduation",
+      "startDate": "2016-03-01",
+      "endDate": "2017-12-22",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Pelotas",
+      "area": "Computer Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2011-03-01",
+      "endDate": "2015-12-20",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "IFSUL",
+      "area": "ELETROMECHANICAL",
+      "studyType": "Technical",
+      "startDate": "2007-03-01",
+      "endDate": "2008-12-20",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Highlight in the session of Exact Sciences ",
+      "date": "2015-05-01",
+      "awarder": "CIC UFPEL",
+      "summary": "Paper entitled “Development of a solution for the record of attendance an access control on academic events using identification and communication by radio frequency”. Developed with Group of Architectures and Integrated Circuits – GACI UFPel"
+    },
+    {
+      "title": "Innovative Ideas Competition ",
+      "date": "2013-04-12",
+      "awarder": "UFPEL",
+      "summary": "Paper entitled “Tracing system for collective transport vehicles using technology Arduino”."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Development of a solution for the record of attendance an access control on academic events using identification and communication by radio frequency",
+      "publisher": "UFSM",
+      "releaseDate": "2016-10-01",
+      "website": "https://periodicos.ufsm.br/coming",
+      "summary": ""
+    },
+    {
+      "name": "Tracing system for collective transport vehicles using technology Arduino",
+      "publisher": "UFPel",
+      "releaseDate": "2013-04-01",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PHP",
+        "NodeJS",
+        "WordPress",
+        "Symfony framework",
+        "Laravel framework",
+        "Silex micro-framework",
+        "Docker",
+        "Linux",
+        "ShellScript"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "Master",
+      "keywords": [
+        "Arduino",
+        "RaspberryPi"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }
+  ]
+}
